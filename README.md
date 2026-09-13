@@ -28,27 +28,27 @@ Hi, I'm Bx2 👋<br><br>I'm a student and aspiring Cybersecurity Engineer with a
 # 🛠️ Tech Stack:
 ### 💻 programming languages
 
-[![programming languages](https://skillicons.dev/icons?i=js,html,css,cpp,dart,py,sqlite,ts,php)](https://skillicons.dev)
+[![programming languages](https://skillicons.dev/icons?i=js,html,css,cpp,dart,py,sqlite,ts,php)](https://github.com/0xBx2)
 
 ### Frameworks
 
-[![Frameworks](https://skillicons.dev/icons?i=react,flutter,express,vue,vite,tailwind)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,flutter,express,vue,vite,tailwind)](https://github.com/0xBx2)
 
 ### Database
 
-[![Database](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=mongodb)](https://github.com/0xBx2)
 
 ### Code Editor and IDE 
 
-[![Code Editor and IDE](https://skillicons.dev/icons?i=vscode,visualstudio,clion,androidstudio)](https://skillicons.dev)
+[![Code Editor and IDE](https://skillicons.dev/icons?i=vscode,visualstudio,clion,androidstudio)](https://github.com/0xBx2)
 
 ### Operating System useing
 
-[![Operating System useing](https://skillicons.dev/icons?i=windows,ubuntu,linux)](https://skillicons.dev)
+[![Operating System useing](https://skillicons.dev/icons?i=windows,ubuntu,linux)](https://github.com/0xBx2)
 
 ### More Skills and Tools
 
-[![More Skills and Tools](https://skillicons.dev/icons?i=powershell,blender)](https://skillicons.dev)
+[![More Skills and Tools](https://skillicons.dev/icons?i=powershell,blender)](https://github.com/0xBx2)
 
 
 ---
