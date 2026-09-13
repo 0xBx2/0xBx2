@@ -6,7 +6,8 @@ Hi, I'm Bx2 👋<br><br>I'm a student and aspiring Cybersecurity Engineer with a
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100092450379655) 
 
 # 💻 Tech Stack:
-
+## programming languages
+[![programming languages](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=0xBx2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
